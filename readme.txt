@@ -6,12 +6,12 @@ Description: QRCode Generator wordpress plugin to create a image QRCode on any s
 Tags: qr code, qrcode, qr code generator, qrcode generator, qr code shortcode, qrcode shortcode, barcode, scan, shortcode, image, page, links, widget, post, plugin, admin, posts, images, kaywa, visual qr code, color qr code 
 Donate link: http://qrcode.jar.io
 Requires at least: 3.0.9
-Tested up to: 2.0.0
+Tested up to: 4.0.0
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Use QRCode Generator to create a image QRCode on any site of your blog. 
+Use QRCode Generator to create a image QRCode on any site of your Wordpress. 
 
 == Description ==
 
